@@ -7,4 +7,4 @@
 
 ![](https://github.com/drilnet/blender3d-motor/blob/master/Motor%20(preview).gif)
 
-Более подробно смотри: [Wiki](https://github.com/drilnet/hobby/wiki/Blender-3D.-Модель-мотора-(motor).)
+Более подробно смотри: [Wiki](https://github.com/drilnet/blender3d-motor/wiki)
