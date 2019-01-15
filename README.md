@@ -11,7 +11,7 @@
 <br>
 **blend** файл находится в архиве **StDv(motor).7z.001** и **StDv(motor).7z.002**
 <br>
-Более подробно о архиве смотри: [Wiki](https://github.com/drilnet/blender3d-motor/wiki)
+Более подробно о архиве смотри [Wiki](https://github.com/drilnet/blender3d-motor/wiki)
 
 <hr>
 
