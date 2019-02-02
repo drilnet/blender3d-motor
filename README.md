@@ -29,6 +29,8 @@
 **Репозиторий:** [Скрипт который подписывает цифровые фотографии.](https://github.com/drilnet/programming-perl-signature-images)
 <br>
 **Репозиторий:** [Вектор-06Ц. Ожившее кино.](https://github.com/drilnet/vector-06c-kino)
+<br>
+**Репозиторий:** [Вектор-06Ц. Конвертер графических файлов SPR в BMP.](https://github.com/drilnet/vector-06c-spr2bmp)
 
 <hr>
 
