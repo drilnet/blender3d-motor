@@ -78,7 +78,7 @@
 
 Файлы с расширением **7z.001** и **7z.002** можно распаковать с помощью архиватора [7-Zip](https://www.7-zip.org/download.html)!
 
-**Скриншоты:**
+**Скриншоты** (мотор в редакторе [Blender 3D](https://www.blender.org))**:**
 
 ![](https://github.com/drilnet/blender3d-motor/blob/master/Screenshot%205.png)
 ![](https://github.com/drilnet/blender3d-motor/blob/master/Screenshot%204.png)
