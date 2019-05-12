@@ -104,7 +104,7 @@
 
 **Репозиторий:** [Blender 3D. Модель игральной кости (dice).](https://github.com/drilnet/blender3d-dice2)
 <br>
-**Репозиторий:** [Blender 3D. Символика Украины (Флаг, Герб).](https://github.com/drilnet/blender3d-ukrainian-symbols)
+**Репозиторий:** [Blender 3D. Государственная символика Украины (Флаг, Герб).](https://github.com/drilnet/blender3d-ukrainian-symbols)
 <br>
 **Репозиторий:** [Скрипт, который подписывает цифровые фотографии.](https://github.com/drilnet/programming-perl-signature-images)
 <br>
