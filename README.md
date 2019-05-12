@@ -1,4 +1,8 @@
-# hobby
+# Hobby
+[GITHUB](https://github.com) - Моя записная книжка!
+
+<hr>
+
 Лицензия: **GNU GPL V3**.
 
 ![](https://github.com/drilnet/blender3d-motor/blob/master/UA.png)
