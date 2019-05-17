@@ -93,7 +93,7 @@
 ![](https://github.com/drilnet/blender3d-motor/blob/master/Screenshot%205.png)
 ![](https://github.com/drilnet/blender3d-motor/blob/master/Screenshot%204.png)
 
-Украина. (C) Демидов С.В.
+Украина. (**C**) Демидов С.В.
 
 <hr>
 
