@@ -3,6 +3,8 @@
 
 <hr>
 
+### Blender 3D. Модель мотора.
+
 Лицензия: **GNU GPL V3**.
 
 ![](https://github.com/drilnet/blender3d-motor/blob/master/UA.png)
