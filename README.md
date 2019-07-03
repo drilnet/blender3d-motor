@@ -11,6 +11,10 @@
 
 Модель мотора, сделано в **Blender 2.79b** ([https://www.blender.org](https://www.blender.org)).
 
+**Рендер:** Blender Render 
+<br>
+**Единица измерения:** Единица Blender'а
+
 ![](https://github.com/drilnet/blender3d-motor/blob/master/Motor%20(preview).gif)
 
 **Внимание!**
