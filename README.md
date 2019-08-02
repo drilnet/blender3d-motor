@@ -135,6 +135,10 @@
 <br>
 <br>
 **Репозиторий:** [RLE кодирование/декодирование своими руками (VRLE8, VRLE16)](https://github.com/drilnet/rle)
+<br>
+<br>
+**Репозиторий:** [Электроника (всё в одном репозитории)](https://github.com/drilnet/electronics)
+* [Ящик для экспонирования фоторезиста](https://github.com/drilnet/electronics/tree/master/Box%20For%20Exposure%20Photoresist)
 
 <hr>
 
