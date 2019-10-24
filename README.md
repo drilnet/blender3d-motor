@@ -19,7 +19,7 @@
 
 **Внимание!**
 <br>
-**blend**-файл находится в архиве: **StDv(motor).7z.001**, **StDv(motor).7z.002**.
+**blend**-файл находится в архиве: [StDv(motor).7z.001](https://github.com/drilnet/blender3d-motor/blob/master/StDv(motor).7z.001), **StDv(motor).7z.002**.
 
 ### Содержимое архива.
 
