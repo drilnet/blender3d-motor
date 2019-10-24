@@ -19,7 +19,9 @@
 
 **Внимание!**
 <br>
-**blend**-файл находится в архиве: [StDv(motor).7z.001](https://github.com/drilnet/blender3d-motor/blob/master/StDv(motor).7z.001), **StDv(motor).7z.002**.
+**blend**-файл находится в архиве: [StDv(motor).7z.001](https://github.com/drilnet/blender3d-motor/blob/master/StDv(motor).7z.001), [StDv(motor).7z.002](https://github.com/drilnet/blender3d-motor/blob/master/StDv(motor).7z.002)
+<br>
+Файлы с расширением **7z.001** и **7z.002** можно распаковать с помощью архиватора [7-Zip](https://www.7-zip.org/download.html)!
 
 ### Содержимое архива.
 
@@ -91,8 +93,6 @@
 Теперь эту работу (Флаг и Герб Украины) можно посмотреть в этом [репозитории](https://github.com/drilnet/blender3d-ukrainian-symbols).
 
 <hr>
-
-Файлы с расширением **7z.001** и **7z.002** можно распаковать с помощью архиватора [7-Zip](https://www.7-zip.org/download.html)!
 
 **Скриншоты** (мотор в редакторе [Blender 3D](https://www.blender.org))**:**
 
